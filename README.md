@@ -149,3 +149,5 @@ If you encounter bugs, need help, or have feature requests:
 - Describe the problem clearly and include any relevant logs or screenshots.
 
 We appreciate your feedback and contributions!
+
+© 2025 The Stable Order.
