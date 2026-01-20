@@ -6,7 +6,7 @@ this project in the [TODO channel](TODO).
 
 ## Contributors
 
-By adding yourself to the table below, you certify that all your contributions to this project
+By having yourself in the table below, all your contributions to this project
 are made under the terms of the [Developer Certificate of Origin](DCO.md).
 
 | Name                             | Github Username    | Discord Username   | Email Address                |     
